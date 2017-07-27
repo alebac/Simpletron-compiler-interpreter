@@ -1,0 +1,6 @@
+0 rem Questo programma calcola la somma di due numeri ; 
+1 input x ; 
+2 input y ; 
+3 let z = x + y ; 
+4 print z ; 
+5 end ; 
